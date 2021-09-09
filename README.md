@@ -14,4 +14,3 @@ Código para taller de intercambio entre especialistas SIG, Lima, Perú 2021
 
 # Lluvias Extremas Relacionas a ENSO
 
-# Dispersión de Ceniza Volcánica
