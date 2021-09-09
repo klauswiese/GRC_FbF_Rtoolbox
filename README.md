@@ -10,8 +10,6 @@ Código para taller de intercambio entre especialistas SIG, Lima, Perú 2021
 
 # Sequías
 
-# Olas de Frio y Nevadas
-
 # Inundaciones Extremas
 
 # Lluvias Extremas Relacionas a ENSO
