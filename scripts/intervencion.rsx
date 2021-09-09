@@ -5,13 +5,16 @@
 ##Eje_x=Field Layer
 ##Eje_y=Field Layer
 ##TipodeColor=selection viridis;infierno;plasma;magma
+##Titulo=string
+##Subtitulo=string
+##Fuente=string
 
 library(tidyverse)
 library(ggplot2)
 
-titulo = "Índice de riesgo"
-subtitulo = "FbF - LAC"
-fuente = "Elaboración propia con datos de INEI"
+titulo = Titulo
+subtitulo= Subtitulo
+fuente = Fuente
 
 df = Layer %>% st_set_geometry(NULL)
 topdf = df %>% 
@@ -84,4 +87,3 @@ PLOT= final +
   theme(
     legend.position="none")
 PLOT
-
