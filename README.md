@@ -6,7 +6,7 @@
 # GRC_FbF_Rtoolbox
 Código para taller de intercambio entre especialistas SIG, Lima, Perú 2021
 
-+ Gráfico para análisis de intervención
++ Gráfico para análisis de intervención (barras y radial)
 + Umbrales usando el algorito otsu
 + mapa2web, para una capa
 
