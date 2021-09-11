@@ -10,6 +10,6 @@ Código para taller de intercambio entre especialistas SIG, Lima, Perú 2021
 > Umbrales usando el algorito otsu
 > mapa2web, para una capa
 
-#Trabajandoi
+# Trabajando
 
 > Función Join para información de riesgo y limites administrativos políticos.
