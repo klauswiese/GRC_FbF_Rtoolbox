@@ -5,3 +5,11 @@
 
 # GRC_FbF_Rtoolbox
 Código para taller de intercambio entre especialistas SIG, Lima, Perú 2021
+
+> Gráfico para análisis de intervención
+> Umbrales usando el algorito otsu
+> mapa2web, para una capa
+
+#Trabajandoi
+
+> Función Join para información de riesgo y limites administrativos políticos.
