@@ -4,10 +4,13 @@
 ##Fecha_final=string
 ##VariableClimatica=selection  pp;temp;etp;esco
 library(rgee)
-use_python("PUT_HERE_THE_PYTHON3_VERSION_PATH_TO_BE_USE_TO_CREATE_A_PYTHON_ENV_TO_RGEE")
+use_python("C:/Users/logis/AppData/Local/Microsoft/WindowsApps/python3")
 library(htmlwidgets)
 library(cptcity)
+
 ee_Initialize()
+
+
 data <- Layer
 roi <- sf_as_ee(data)
 inicio= Fecha_inicio
