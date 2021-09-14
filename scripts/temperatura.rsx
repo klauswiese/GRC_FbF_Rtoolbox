@@ -4,6 +4,7 @@
 ##Fecha_final=string
 ##VariableClimatica=selection  pp;temp;etp;esco
 library(rgee)
+use_python("PUT_HERE_THE_PYTHON3_VERSION_PATH_TO_BE_USE_TO_CREATE_A_PYTHON_ENV_TO_RGEE")
 library(htmlwidgets)
 library(cptcity)
 ee_Initialize()
