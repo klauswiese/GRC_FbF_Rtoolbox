@@ -12,4 +12,4 @@ Código para taller de intercambio entre especialistas SIG, Lima, Perú 2021
 
 # Trabajando
 
-+ Función Join para información de riesgo y limites administrativos políticos.
++ Función Join para información de riesgo y límites administrativos políticos.
